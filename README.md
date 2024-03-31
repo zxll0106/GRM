@@ -1,9 +1,9 @@
 # Learning Group Residual Representation for Group Activity Prediction (ICME 2023)
 This repo contains code of our paper "Learning Group Residual Representation for Group Activity Prediction". 
 
-[[paper](https://ieeexplore.ieee.org/abstract/document/10220015)]
-
 _Xiaolin Zhai, Zhengxi Hu, Dingye Yang, Shichao Wu and Jingtai Liu_
+
+[[paper](https://ieeexplore.ieee.org/abstract/document/10220015)]
 
 ## Citation
 ```
