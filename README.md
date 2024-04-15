@@ -31,6 +31,17 @@ _Xiaolin Zhai, Zhengxi Hu, Dingye Yang, Shichao Wu and Jingtai Liu_
     python scripts/train_collective_stage1.py
   ```
 
+2. **Train the Whole Model**:
+```shell
+    # Volleyball dataset
+    cd PROJECT_PATH 
+    python scripts/train_volleyball_stage2.py
+    
+    # Collective Activity dataset
+    cd PROJECT_PATH 
+    python scripts/train_collective_stage2.py
+  ```
+
 ## Acknowledgement
 
 We thank for the part of code of DIN and ST-GCN, whose github repo are [GAP_SRAM code](https://github.com/junwenchen/GAP_SRAM) and [DIN code](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark). We thank the authors for releasing their code.
